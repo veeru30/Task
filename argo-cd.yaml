@@ -8,7 +8,7 @@ spec:
  source:
    repoURL: 'https://github.com/veeru30/Task'
    targetRevision: HEAD
-   path: /
+   path: deployment.yaml
  destination:
    server: 'https://kubernetes.default.svc'
    namespace: default
