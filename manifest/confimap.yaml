@@ -6,8 +6,14 @@ metadata:
 data:
  index.html: |
    <html>
+<<<<<<< HEAD:manifest/confimap.yaml
    <head><title>THANK YOU FOR OPPORTUNITY AppScrip</title></head>
    <body>
    <h1>THANK YOU FOR OPPORTUNITY AppScrip</h1>
+=======
+   <head><title>THANK YOU FOR OPPORTUNITY Appscrip</title></head>
+   <body>
+   <h1>THANK YOU FOR OPPORTUNITY Appscrip</h1>
+>>>>>>> 57bc63724c712b89c7f8ba5d28afa6989b4acf69:argo/confimap.yaml
    </body>
    </html>
